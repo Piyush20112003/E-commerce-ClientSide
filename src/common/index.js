@@ -1,4 +1,4 @@
-const backendDomin = "http://localhost:8080"
+const backendDomin = "https://e-commerce-backend-silk-alpha.vercel.app"
 
 const SummaryApi = {
     signUP : {
